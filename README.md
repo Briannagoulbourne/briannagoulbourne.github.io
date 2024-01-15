@@ -33,7 +33,7 @@ November, 2019 – August 2021
 
 -Serviced patron questions in-person, or electronically regarding library services, resources, and general campus inquiries.
 
-- Provided efficient and meticulous frontline circulation customer service while maintaining positivity and cooperation in a team-based environment.
+-Provided efficient and meticulous frontline circulation customer service while maintaining positivity and cooperation in a team-based environment.
   
 -Oversaw and aided with troubleshooting library hardware and software issues including, printers, desktops, and laptops.
 
@@ -43,11 +43,15 @@ November, 2019 – August 2021
 computers.
 
 
-### Projects 
+### Projects
+
 BellaBeat
 2023
- Conducted a comparative analysis, between the clients most popular wellness product: The Ivy Health Tracker; and similar products sold by
+
+-Conducted a comparative analysis, between the clients most popular wellness product: The Ivy Health Tracker; and similar products sold by
 other brands including: The FitBit. 
- Created and defined specific parameters and functions to create comparability among data accumulated from several brands of wearable
-health trackers, centralized this data using SQL
- Created a set of visualization dashboards through Tableau displaying the most common uses of these products across a variety of brands.
+
+-Created and defined specific parameters and functions to create comparability among data accumulated from several brands of wearable
+health trackers, centralized this data using **SQL and Microsoft Excel**
+
+-Created a set of visualization dashboards through **Tableau** displaying the most common uses of these products across a variety of brands.
