@@ -28,12 +28,17 @@ visualization using **Microsoft Excel** and **Microsoft PowerPoint.**
 
 Life University Williams Library - Medical Library Associate 
 November, 2019 – August 2021
-- Maintained well-rounded knowledge of automated library systems and
-reference data to assist with patrons and visitors.
+
+-Maintained well-rounded knowledge of automated library systems and reference data to assist with patrons and visitors.
+
 -Serviced patron questions in-person, or electronically regarding library services, resources, and general campus inquiries.
+
 - Provided efficient and meticulous frontline circulation customer service while maintaining positivity and cooperation in a team-based environment.
+  
 -Oversaw and aided with troubleshooting library hardware and software issues including, printers, desktops, and laptops.
+
 -Familiarity operating several engines such as; PubMed, WCMS, Worldcat, EBSCO, Google Scholar, and ScienceDirect
+
 -Instructed and assisted patrons with the proper and safe use of library technological instruments photocopiers, scanners, and
 computers.
 
