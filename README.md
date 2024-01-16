@@ -37,8 +37,8 @@ November, 2019 – August 2021
   
 -Oversaw and aided with troubleshooting library hardware and software issues including, printers, desktops, and laptops.
 
--Familiarity operating several engines such as; PubMed, WCMS, Worldcat, EBSCO, Google Scholar, and ScienceDirect
-
+-Familiarity operating several engines such as; **PubMed, WCMS, Worldcat, EBSCO, Google Scholar, and ScienceDirect
+**
 -Instructed and assisted patrons with the proper and safe use of library technological instruments photocopiers, scanners, and
 computers.
 
