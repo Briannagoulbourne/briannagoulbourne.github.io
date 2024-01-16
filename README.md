@@ -45,7 +45,7 @@ computers.
 
 ### Projects
 
-BellaBeat
+BellaBeat (https://github.com/Briannagoulbourne/briannagoulbourne.github.io/blob/main/bellabeat_project_dec_2023)
 2023
 
 -Conducted a comparative analysis, between the clients most popular wellness product: The Ivy Health Tracker; and similar products sold by
